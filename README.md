@@ -1,6 +1,6 @@
 # Ebookcoin Web Client
 
-书链：加密货币驱动的电子书写作和版权保护应用
+亿书：加密货币驱动的电子书写作和版权保护应用
 
 This repository is a submodule of the Ebookcoin, and bases on [AngularJS](https://angularjs.org/).
 
